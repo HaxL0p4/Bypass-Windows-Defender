@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
+#include <winsock2.hZ
 #include <windows.h>
 #include <shlobj.h>  
 
